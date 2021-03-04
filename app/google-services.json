@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386909374365",
+    "project_id": "notecloudcr",
+    "storage_bucket": "notecloudcr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386909374365:android:2ebfa201542a1bd61d1174",
+        "android_client_info": {
+          "package_name": "com.cromero.notecloudcr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386909374365-naemnisnmbleuq60ejev5s09nm6bnvqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsAPYE9NTBOZ999EAwHzo7duaQBsLwdTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386909374365-naemnisnmbleuq60ejev5s09nm6bnvqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

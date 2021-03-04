@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteCloudCR</string>
+    <string name="txt_mail">Mail</string>
+    <string name="password">conraseña</string>
+    <string name="login_Text">login</string>
+    <string name="register_text">registrarse</string>
+    <string name="deleted">\"Eliminada\"</string>
+</resources>
